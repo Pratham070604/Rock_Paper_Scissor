@@ -8,7 +8,7 @@ This is a simple Rock-Paper-Scissors game built with **HTML**, **CSS**, and **Ja
 
 ## 🖼 Screenshot
 
-![Game Screenshot](./your-screenshot.png)
+![Game Screenshot](./images/UI.png)
 
 ## 📁 Project Structure
 
