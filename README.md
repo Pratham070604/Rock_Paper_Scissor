@@ -4,7 +4,7 @@ This is a simple Rock-Paper-Scissors game built with **HTML**, **CSS**, and **Ja
 
 ## 🔗 Live Demo
 
-👉 [Play Now](rockscissorpaperss.netlify.app)
+👉 [Play Now]((https://rockscissorpaperss.netlify.app/))
 
 ## 🖼 Screenshot
 
